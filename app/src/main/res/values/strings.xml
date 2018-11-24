@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab2Intent</string>
+    <string name="hint_message1">Weight(kg)</string>
+    <string name="hint_message2">Height(m)</string>
+    <string name="send">Send</string>
+    <string name="message">Message</string>
+    <string name="close">Close</string>
+    <string name="error_message">Please enter your height or weight</string>
+</resources>
